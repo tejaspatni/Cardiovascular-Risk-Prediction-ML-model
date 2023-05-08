@@ -83,3 +83,6 @@ We can Choose Decision Tree classifier from the above model because it has the h
 7. Patients having Diabetes and cholesterol problems show a higher risk of CHDs. Patients with a history of “strokes” have a higher chance of developing CHDs.
 
 8. Finally we can say that, Decision tree Classifier has performed best among all the models with 90% Recall. It is by far the highest score we have achieved.So,It's safe to say that Decision tree Classifier provides an optimal solution to our problem.
+
+
+Link : https://tejaspatni-cardiovascular-risk-prediction-ml-model-app-iqxzpv.streamlit.app/
